@@ -61,12 +61,12 @@ Kalian wajib kenalan dengan mentor mentor RPN, Mentor ini yang akan membantu kal
 
 Caranya cukup tag saja mentor kalian dan cari waktu yang pas buat live mentoring.
 
-Zexo : Gua sendiri mentoring full RPN mulai dari phase 0 - 3, tapi lebih fokus di 1-3. 
+`Zexo` : Gua sendiri mentoring full RPN mulai dari phase 0 - 3, tapi lebih fokus di 1-3. 
 
-Harkon : Mentor Phase 0 , hampir semua materi phase 0 dia yang buat dan sudah ada beberapa video YT dari harkon untuk dasar syntax javascript.
+`Harkon` : Mentor Phase 0 , hampir semua materi phase 0 dia yang buat dan sudah ada beberapa video YT dari harkon untuk dasar syntax javascript.
 
-Terkoiz : Mentor Phase 1 (Helper), Beberapa Quiz atau Logic nolep Terkoiz bantuin gue buat materinya jadi dia lumayan paham sama semua materi phase 1.
+`Terkoiz` : Mentor Phase 1 (Helper), Beberapa Quiz atau Logic nolep Terkoiz bantuin gue buat materinya jadi dia lumayan paham sama semua materi phase 1.
 
-Yuta : Mentor Phase 2 (Helper), Beberapa Material project dikerjain sama yuta, dan dia memang kerja sebagai spesialis frontend.
+`Yuta` : Mentor Phase 2 (Helper), Beberapa Material project dikerjain sama yuta, dan dia memang kerja sebagai spesialis frontend.
 
 
