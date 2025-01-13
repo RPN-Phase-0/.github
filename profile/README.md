@@ -87,9 +87,9 @@ Kalian akan disuguhin coding puzzle setiap hari dan akan jadi makanan sehari har
 
 Di phase 0 level logic kalian wajib sampe bisa menyelesaikan kyu 6/5 di codewars, ini akan membantu banget untuk pemahaman data flow, syntax dan algoritma yang kalian pakai untuk solving problem.
 
-Jadi untuk kalian yang ga punya motivasi kuat untuk jadi programmer mending menyerah aja untuk masuk RPN. Walaupun ini bootcamp gratis, tapi course yang nyaingin semua bootcamp yang ada. Bahkan level kesulitannya pun gua design diatas rata rata.
+Jadi untuk kalian yang ga punya motivasi kuat untuk jadi programmer mending menyerah aja untuk masuk RPN. Walaupun ini bootcamp gratis, tapi course RPN bisa nyaingin semua bootcamp yang ada. Bahkan level kesulitannya pun gua udah atur diatas rata rata.
 
-Ini sengaja gua buat keras karena kompetisi di dunia IT makin sulit, satu satunya jalan kalian untuk nyaigin anak anak kuliah dan bootcamp, dengan modal gratis lewat RPN, ya kalian harus kerja lebih keras untuk melawan mereka dalam dunia kerja. 
+Ini sengaja gua buat coursenya level keras banget karena kompetisi di dunia IT makin sulit, satu satunya jalan kalian untuk nyaigin anak anak kuliah dan bootcamp, dengan modal gratis lewat RPN, ya kalian harus kerja lebih keras untuk melawan mereka dalam dunia kerja. 
 
 Dan terbukti lulusan phase anak anak RPN , rata rata udah kayak iblis semua wkwkw. kalo kalian ga percaya liat aja discordnya cara mereka komunikasi gimana dan liat repo repo murid RPN . \project projectnya kayak gimana.
 
