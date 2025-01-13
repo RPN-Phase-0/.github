@@ -1,12 +1,72 @@
-## Hi there 👋
+# Welcome to RPN 
+![image](https://github.com/user-attachments/assets/9b64f27d-96a8-4c76-97d6-4eec5dbac746)
 
-<!--
+RPN adalah product personal gua (Zexo) dan bryan (harkon) teman gua. untuk experiment dimana kita berdua mau membuktikan bahwa seorang pemula IT untuk menjadi fullstack programmer itu bisa tanpa biaya sama sekali. Tujuan experiment ini untuk memutuskan gap antara orang orang yang mau belajar menjadi fullstack programmer dengan mahalnya biaya biaya bootcamp sekarang dan UKT kuliah jurusan IT.
 
-**Here are some ideas to get you started:**
+Selain itu, RPN juga komunitas yang bertujuan untuk membantu pemula dalam dunia pemrograman dan coding yang berfokus di fundamental logic dan algoritma. Kita disini mengedepankan sekali bahwa algoritma dan data struktur adalah dasar dari segalanya. Makanya phase phase di RPN dibuat sesusah dan sesulit mungkin untuk melatih habbit berfikir mereka.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Course RPN berfokuskan memakai javascript, karena javascript bahasa yang cocok untuk menjadi fullstack programmer dimana tools" dari javascript bisa melakukan development backend maupun frontend. Kita ada sistem group project, dimana murid harus membentuk suatu tim dan melakukan hackathon 3 - 5 hari untuk mencapai stage selanjutnya. Jadi, murid murid yang ikut RPN akan terbiasa dengan atmosfir hackathon.
+
+Progress sekarang, udah puluhan murid yang cobain course RPN dan sudah ada yang bekerja. Bahkan disini ada anak" SMP - SMA yang sudah bisa menyelesaikan djakstra algorithm menggunakan javscript, Bahkan mereka ini udah jago jago bikin API dan Frontend yang UI nya kompleks. Mereka mereka ini bisa menyaingi anak anak kuliah IT lainnya.
+
+
+## RPN Phase
+
+RPN mempunyai 4 phase 
+
+- Phase 0 : [Foundation](https://github.com/RPN-Phase-0) 
+- Phase 1 : [Backend](https://github.com/RPN-Phase-1)
+- Phase 2 : [Frontend](https://github.com/RPN-Phase-2)
+- Phase 3 : Fullstack Devil (soon)
+
+Roadmap Detailnya bisa dilihat di discord RPN.
+
+## Live Code
+
+Untuk murid murid phase 0 yang mau serius sama RPN, diwajibkan untuk live code untuk syarat memasuki phase 1. Ini bukti bahwa murid murid RPN harus membuktikan skillnya bahwa dia memang benar benar bisa ngoding.
+
+## RPN System (Phase 1 - 3)
+
+Ini sistem pembelajaran di RPN phase 1-3. sistem ini berlaku untuk kalian yang sudah lulus phase 0.
+
+- Setiap phase akan jalan per batch, jadi kalau batch 1 udah jalan. orang orang yang baru lulus phase 0 harus nunggu yang lain sekitar (5 orang atau kurang , tergantung kondisi) baru bisa jalan batch 2. berlaku juga untuk phase 2 dan 3.
+
+- Setiap week terdiri dari materi dan logic nolep (logic nolep ini tugas kalian yang wajib di kerjain)
+
+- Sebelum materi week dimulai, selalu ada live class untuk membahas materi di week itu. contoh kita mau mulai week 1 minggu depan, hari minggu di minggu ini bakal ada live class untuk pembahasan week 1 di minggu depan. selanjut nya bakal begitu, berarti live class week 2 ada di hari minggu week 1.
+
+- PRIVATE MENTORING, kalian boleh ngadain sesi mentoring langsung ke gua. caranya bisa tag gua langsung (inget tag gua , jangan DM) terus kita cari waktu yang pas buat live class. sebisa mungkin gua available setiap hari, kalo gua berhalangan bisa di backup sama sepuh nolep. untuk phase 1 backup @terkoiz256 , untuk phase 2 backup ada @harkontungky , @yonkruw .
+
+- WAITING LIST, seperti yang gua jelasin setiap phase ada batch. per batch 5-10 orang tergantung seberapa banyak yang lagi belajar. dan semua orang bisa untuk tidak mengikuti batch dahulu dengan tujuan tunda ikut phase jika orang itu punya kesibukan hal lain. jadi kita ga maksa kalian untuk ikut phase , kalian sendiri yang nentuin mau ikut batch mana. 
+
+- SNOWBALL EFFECT, phase 1-3 ini bakal lebih ketat kenapa ? karena gua mau ngajar kalian dengan serius. 4 week ini bakal gua all in full untuk deliver materi sebagus mungkin ke kalian jadi urusan waktu manajemen kalian atur sendiri. jadi 4 week ini bakal ga ada stop, setiap week bakal ada live class + tugas tugas selalu bermunculan. jadi kalo kalian tugas tugas di week 1 belum kelar, week 2 bakal tetep jalan dan tugas tugas kalian numpuk numpuk terus (ini yang dinamain snowball effect). gua bakal ngeliat snowball kalian lewat PR, orang orang yang snowball ini bakal gua tandain terus gua bakal tanyain terus alasan snowball nya kenapa dan gua juga bakal helping secara khusus (live class terpisah) khusus orang orang snowball. nanti setiap orang yang kena snowball bakal gua kasih role (snowball phase "X") buat tanda kalo kalian culun :smile: 
+
+- DEVIL, kebalikan snowball. orang orang yang jalanin semua tugasnya tanpa snowball effect atau bantai setiap phase cuman 5 minggu.  gua kasih role devil di setiap phase, contoh dia no snowball di phase 1 nanti ada tanda "devil phase X". ini apresiasi gua buat orang orang yang fokus sama materi ini dan atur waktu nya dengan baik. benefit DEVIL ini bisa gua consider potensi jadi sepuh nolep setelah lulus phase 3, dan ikut langsung ke project project freelance dri anak anak sepuh nolep, langsung kerja bareng gua dibawah komando dark lord. jangan lupa yang ngajarin kalian logic itu si harkon. dia devil mautnya phase 0 , bantai bantai logic sama rekursif cuman beberapa minggu @harkontungky 
+
+- Group Project, di setiap phase akan selalu ada group project. di phase 3 group project ini bakal jadi "final project" penentu kelulusan di RPN.
+
+- Portofolio Challange Berbeda dari group project, Challenge ini bakal ada sebelum group project dimulai dan cuman ada di phase 2. karna phase 3 udah fokus ke final project. Fungsi dari pengerjaan challenge ini buat memenuhi kebutuhan profile career kalian.
+
+- SMURF, gua liat ada beberapa orang yang udah kerja dan udah jago masuk ke community ini. gua tanda tandain orang orang ini smurfing di RPN. nah apa bole smurf" ini akses materi setiap phase RPN ? hasil diskusi gua bareng @harkontungky adalah " Tidak" . sebelum kalian akses materi materi kita , smurfer ini wajib show skill kalian kalo beneran smurf :smiling_imp: . jadi kalau kalian mau akses materi phase 2 ya kalian start from phase 0 . kalau udah jago harusnya gampang dong hihi :grin:
+
+- Career Development RPN, Ini Stage dimana kalian semua sudah lulus phase 3. para sepuh bakal pandu karir kalian mulai dari cara buat portofolio, buat profile linkedin + github GG, sampe template template interview buat bantai soal soal competitive programming. disini juga bakal ada sesi curhat arah karir kalian mau kemana , kita bakal kasih saran + step step yang bakal di lakuin untuk mencapai tujuan karir kalian. contoh kalian posisi kuliah di semester 4 kita bakal pandu sampe kalian ikutin program program google bangkit , apple developer sampe hackathon hackathon dan conference buat network kalian kesebar di industri ini. gua juga bakal buat channel lowongan lowongan kerja yang udh kita filter khusus community ini dan ini clean dari blacklisted company (alias company perbudakan). ini bukan jaminan kerja atau sertifikasi macem bootcamp bootcamp lain. tapi para sepuh disini berusaha yang terbaik buat  karir programming kalian. dan ini semua full gratis no bacot bacot pake duit.
+
+- SHOW OFF, setelah lulus phase 3 ada program SHOW OFF di RPN. dimana anak anak phase 3 boleh bikin group dan buat suatu aplikasi. nanti hasil show off ini kita show ke semua community RPN buat motivasi anak anak yang belum belajar atau masih progress belajar di RPN. ide ide aplikasi nya bisa kita saranin dari sepuh nolep atau kita diskusi di channel khusus ide app dari anak anak RPN. dan program show off ini ga sekedar buat apps aja , kita juga bisa ikut hackathon yang ada di indo biar kalian dapet experience + networking disana. sekaligus sebarin nama baik RPN. btw gua rutin ikut hackathon , jadi kalian bisa juga team up sama @Sepuh Nolep .
+
+- SECRET PHASE, phase ini kebuka setelah lulus phase 3. dimana bakal ada materi materi IT yang lain selain Full Stack Development. Gua bakal taro semua materi Blockchain Development, AI, dan bahasa pemrograman yang lain disini, termasuk materi Machine Learning + Data Scientist  yang dibuat sama @terkoiz256 . dan semua anak yang lulus phase 3 wajib nyumbang materi ke Secret Phase . jadi secret phase ini macem Pulau Ohara di One Piece, tempat penampungan semua Pengetahuan yang ada di community RPN.  dan semua materi ini bakal selalu up to date ngiktuin trend teknologi sekarang. jadi walaupun kalian alumni RPN atau sudah lulus phase 3 kalian tetap bisa belajar sampe mati. gua yakin kalian ga bisa dapetin ini di sekolah manapun, makanya menurut gua ini benefit paling gede di community RPN.
+
+## Mentor
+
+Kalian wajib kenalan dengan mentor mentor RPN, Mentor ini yang akan membantu kalian dalam proses belajar di RPN. jangan sungkan untuk bertanya dan kalian boleh meminta sesi live mentoring di discord
+
+Caranya cukup tag saja mentor kalian dan cari waktu yang pas buat live mentoring.
+
+Zexo : Gua sendiri mentoring full RPN mulai dari phase 0 - 3, tapi lebih fokus di 1-3. 
+
+Harkon : Mentor Phase 0 , hampir semua materi phase 0 dia yang buat dan sudah ada beberapa video YT dari harkon untuk dasar syntax javascript.
+
+Terkoiz : Mentor Phase 1 (Helper), Beberapa Quiz atau Logic nolep Terkoiz bantuin gue buat materinya jadi dia lumayan paham sama semua materi phase 1.
+
+Yuta : Mentor Phase 2 (Helper), Beberapa Material project dikerjain sama yuta, dan dia memang kerja sebagai spesialis frontend.
+
+
