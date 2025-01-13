@@ -69,4 +69,47 @@ Caranya cukup tag saja mentor kalian dan cari waktu yang pas buat live mentoring
 
 `Yuta` : Mentor Phase 2 (Helper), Beberapa Material project dikerjain sama yuta, dan dia memang kerja sebagai spesialis frontend.
 
+Langsung saja kita mulai dari Gerbang pertama RPN, yaitu phase 0
+
+## Phase 0 : Foundation
+Phase 0 ini awal mula kalian belajar programming, sudah pasti kalian belum bisa ngoding. Otak kalian ini harus dilatih berfikir secara program, jadi kita harus mempunyai logic thinking untuk mengetahui semua proses berjalannya program. Kalian akan di latih untuk belajar algoritma, syntax javascript, dan data structure.
+
+Kenapa harus mulai dari algoritma ? kenapa ga langsung MERN stacks ? langsung ngoding website pake html atau css ?
+
+Banyak sekali orang orang IT yang ngakunya bisa ngoding, cuman modal buat website pake template dan yang dikerjain cuman CRUD. tapi disuruh ngerjain sorting problems pakai bubble sort bingung ???
+belom lagi ketemu DFS/BFS mereka makin pusing pasti untuk melakukan solving" puzzle seperti itu. Orang orang yang ga punya fundamental kuat seperti ini akan selalu jadi beban di tim development real perusahaan IT.
+
+Biasanya orang orang yang low logic ini mereka akan kesusahan jika ketemu Problem yang complex dalam suatu masalah di Development, dan flow ngoding nya itu berantakan tidak beraturan.
+Karena mereka biasa ngoding ala kadarnya (copy paste), nonton tutorial berjam jam tapi latihan ngoding nya ga pernah. Di test live code pasti ga akan bisa dan ga akan ngerti , karena orang orang kayak gini cuman menghayal aja menjadi programmer wkkw.
+
+Di RPN Logic skills adalah segalanya, percuma kalian jago MERN stacks tapi ga bisa solving Graph Problems pakai DFS/BFS. Jadi murid murid disini di TEMPA habis habis sama coding problems.
+Kalian akan disuguhin coding puzzle setiap hari dan akan jadi makanan sehari hari. Metode pembelajaran keras ini yang akan membuat kalian standout dari pada yang lain.
+
+Di phase 0 level logic kalian wajib sampe bisa menyelesaikan kyu 6/5 di codewars, ini akan membantu banget untuk pemahaman data flow, syntax dan algoritma yang kalian pakai untuk solving problem.
+
+Jadi untuk kalian yang ga punya motivasi kuat untuk jadi programmer mending menyerah aja untuk masuk RPN. Walaupun ini bootcamp gratis, tapi course yang nyaingin semua bootcamp yang ada. Bahkan level kesulitannya pun gua design diatas rata rata.
+
+Ini sengaja gua buat keras karena kompetisi di dunia IT makin sulit, satu satunya jalan kalian untuk nyaigin anak anak kuliah dan bootcamp, dengan modal gratis lewat RPN, ya kalian harus kerja lebih keras untuk melawan mereka dalam dunia kerja. 
+
+Dan terbukti lulusan phase anak anak RPN , rata rata udah kayak iblis semua wkwkw. kalo kalian ga percaya liat aja discordnya cara mereka komunikasi gimana dan liat repo repo murid RPN . \project projectnya kayak gimana.
+
+Course gratis, mentor expert, lingkungan belajar yang mendukung. tunggu apalagi, langsung saja mulai kerjain phase 0 dari week 1.
+
+Kalian bisa cek reponya di organization phase 0 ini. atau klik link :
+
+Week1 : https://github.com/RPN-Phase-0/Week1-Welcome-to-Code
+
+
+## Dukung Kami
+
+Jika Kalian menemukan repo ini bermanfaat, jangan lupa untuk memberikan bintang ⭐ di bagian atas halaman. Dukung kami dengan cara sebarkan ke teman-teman kalian, karena materi ini gratis!
+
+Selamat belajar dan selamat datang di dunia pemrograman! 🚀
+
+[Discord RPN](https://discord.gg/ufbRBRTKN8)
+
+
+
+
+
 
