@@ -91,7 +91,7 @@ Jadi untuk kalian yang ga punya motivasi kuat untuk jadi programmer mending meny
 
 Ini sengaja gua buat coursenya level keras banget karena kompetisi di dunia IT makin sulit, satu satunya jalan kalian untuk nyaigin anak anak kuliah dan bootcamp, dengan modal gratis lewat RPN, ya kalian harus kerja lebih keras untuk melawan mereka dalam dunia kerja. 
 
-Dan terbukti lulusan phase anak anak RPN , rata rata udah kayak iblis semua wkwkw. kalo kalian ga percaya liat aja discordnya cara mereka komunikasi gimana dan liat repo repo murid RPN . \project projectnya kayak gimana.
+Dan terbukti lulusan phase anak anak RPN , rata rata udah kayak iblis semua wkwkw. kalo kalian ga percaya liat aja discordnya cara mereka komunikasi gimana dan liat repo repo murid RPN . project projectnya kayak gimana.
 
 Course gratis, mentor expert, lingkungan belajar yang mendukung. tunggu apalagi, langsung saja mulai kerjain phase 0 dari week 1.
 
